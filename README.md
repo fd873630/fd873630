@@ -3,9 +3,7 @@
 
 ### Interesting
 
--real time
-
--Speech Recognition
+-Speech Recognition(Real time ASR)
 
 -Speech Synthesis
 
