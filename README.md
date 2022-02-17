@@ -9,7 +9,7 @@
 
 -Speech to Speech
 
-My goal is non-standard speech ASR https://sites.research.google/euphonia/about/
+My goal is non-standard speech ASR : https://sites.research.google/euphonia/about/
 
 ### Thank you
 
